@@ -11,7 +11,7 @@
 }
 
 .btn:hover,
-.btn:focus {
+.btn:focus-visible {
   box-shadow: 0 7px 20px hsl(347, 77%, 30%);
   transform: translate(0, -3px);
 }

@@ -29,7 +29,7 @@
   transition: color 0.3s;
 }
 .mobile-nav__link:hover,
-.mobile-nav__link:focus {
+.mobile-nav__link:focus-visible {
   color: var(--clr-rose);
 }
 
@@ -44,7 +44,7 @@
   color: var(--clr-slate600);
 }
 .mobile-nav__sun:hover,
-.mobile-nav__sun:focus {
+.mobile-nav__sun:focus-visible {
   color: var(--clr-rose);
 }
 

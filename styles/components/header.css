@@ -18,8 +18,7 @@
   cursor: pointer;
   transition: color 0.3s;
 }
-.header__bars:hover,
-.header__bars:focus-visible {
+.header__bars:hover {
   color: var(--clr-rose);
 }
 
@@ -38,8 +37,7 @@
     letter-spacing: -0.05em;
     transition: color 0.3s;
   }
-  .header__link:hover,
-  .header__link:focus-visible {
+  .header__link:hover {
     color: var(--clr-rose);
   }
 
@@ -53,8 +51,7 @@
     width: var(--text-lg);
     color: var(--clr-slate600);
   }
-  .header__sun:hover,
-  .header__sun:focus-visible {
+  .header__sun:hover {
     color: var(--clr-rose);
   }
 

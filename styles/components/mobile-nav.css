@@ -28,8 +28,7 @@
   letter-spacing: -0.05em;
   transition: color 0.3s;
 }
-.mobile-nav__link:hover,
-.mobile-nav__link:focus-visible {
+.mobile-nav__link:hover {
   color: var(--clr-rose);
 }
 
@@ -43,8 +42,7 @@
   width: var(--text-xl);
   color: var(--clr-slate600);
 }
-.mobile-nav__sun:hover,
-.mobile-nav__sun:focus-visible {
+.mobile-nav__sun:hover {
   color: var(--clr-rose);
 }
 

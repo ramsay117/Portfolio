@@ -10,8 +10,7 @@
   transition: 0.3s;
 }
 
-.btn:hover,
-.btn:focus-visible {
+.btn:hover {
   box-shadow: 0 7px 20px hsl(347, 77%, 30%);
   transform: translate(0, -3px);
 }

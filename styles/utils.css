@@ -6,12 +6,13 @@
   color: #f1f5f9;
   padding: 0.5em 1em;
   border-radius: 0.3em;
-  box-shadow: 0 0 10px hsl(347, 77%, 40%);
+  box-shadow: 0 -20px 15px hsl(347, 77%, 30%) inset,
+    0 4px 10px 5px hsl(347, 77%, 20%);
   transition: 0.3s;
 }
 
 .btn:hover {
-  box-shadow: 0 7px 20px hsl(347, 77%, 30%);
+  box-shadow: 0 0 10px 6px hsl(347, 77%, 30%);
   transform: translate(0, -3px);
 }
 

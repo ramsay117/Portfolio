@@ -6,7 +6,7 @@
   color: #f1f5f9;
   padding: 0.5em 1em;
   border-radius: 0.3em;
-  box-shadow: 0 9px 10px #be123c;
+  box-shadow: -1px 5px 9px #be123c, 2px 0 9px #be123c;
   transition: 0.3s;
 }
 

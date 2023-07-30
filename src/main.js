@@ -12,7 +12,9 @@ import "../styles/utils.css";
 import mobileNav from "./utils/mobile-nav";
 import lightTheme from "./utils/light-theme";
 import lazyLoading from "./utils/lazy-loading";
+import carousel from "./utils/carousel";
 
 mobileNav();
 lightTheme();
 lazyLoading();
+carousel()

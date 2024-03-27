@@ -84,7 +84,7 @@
 
 .carousel__btn:hover,
 .carousel__btn:focus {
-  background-color: var(--clr-slate800);
+  background-color: #4f46e5;
 }
 
 .carousel__btn[data-carousel-btn='prev'] {
@@ -189,10 +189,6 @@
     grid-area: content2;
   }
 
-  .project__carousel {
-    height: 200px;
-  }
-
   .carousel__btn {
     font-size: var(--text-xs);
   }
@@ -239,10 +235,6 @@
 
   .project__link-icon {
     height: var(--text-lg);
-  }
-
-  .project__carousel {
-    height: 250px;
   }
 
   .carousel__btn {

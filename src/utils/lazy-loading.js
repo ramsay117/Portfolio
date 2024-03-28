@@ -13,9 +13,6 @@ function lazyLoading() {
           io.unobserve(img);
         }
       });
-    },
-    {
-      threshold: 0.3,
     }
   );
 
